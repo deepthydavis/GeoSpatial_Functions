@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GEOSPATIAL_FUNCTIONS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GEOSPATIAL_FUNCTIONS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GEOSPATIAL_FUNCTIONS-Debug-4c590623f2929b367163.json",
+					"name" : "GEOSPATIAL_FUNCTIONS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/deepthydavis/dev/GeoSpatial/GeoSpatial_Functions/build",
+		"source" : "/Users/deepthydavis/dev/GeoSpatial/GeoSpatial_Functions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,3 @@
+/Users/deepthydavis/dev/GeoSpatial/GeoSpatial_Functions/build/CMakeFiles/GEOSPATIAL_FUNCTIONS.dir
+/Users/deepthydavis/dev/GeoSpatial/GeoSpatial_Functions/build/CMakeFiles/edit_cache.dir
+/Users/deepthydavis/dev/GeoSpatial/GeoSpatial_Functions/build/CMakeFiles/rebuild_cache.dir
